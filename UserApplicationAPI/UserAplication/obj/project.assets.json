@@ -11065,11 +11065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yurim\\source\\repos\\UserAplication\\UserAplication\\UserAplication.csproj",
-      "projectName": "UserAplication",
-      "projectPath": "C:\\Users\\yurim\\source\\repos\\UserAplication\\UserAplication\\UserAplication.csproj",
+      "projectUniqueName": "C:\\Users\\yurim\\source\\repos\\UserApplication\\UserApplicationAPI\\UserAplication\\UserApplication.csproj",
+      "projectName": "UserApplication",
+      "projectPath": "C:\\Users\\yurim\\source\\repos\\UserApplication\\UserApplicationAPI\\UserAplication\\UserApplication.csproj",
       "packagesPath": "C:\\Users\\yurim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yurim\\source\\repos\\UserAplication\\UserAplication\\obj\\",
+      "outputPath": "C:\\Users\\yurim\\source\\repos\\UserApplication\\UserApplicationAPI\\UserAplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yurim\\AppData\\Roaming\\NuGet\\NuGet.Config",

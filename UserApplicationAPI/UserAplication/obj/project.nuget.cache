@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ugjY9SQsApq0ZL7/+LNNG1Foj/4pmyv0KLHB8ZJoG2nuCNsyMWHEj3i+/zU0K9PSIxFpciXCXBH95ASoiPAtWA==",
+  "dgSpecHash": "rgOEGgvwpGop4Oj0KsqJzYFvlBmMur9tFz+CyzpcnnlZLvPbb7M/P6Ed0mX7Yzlay533d+l+8n5NnXqLJA6wuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yurim\\source\\repos\\UserAplication\\UserAplication\\UserAplication.csproj",
+  "projectFilePath": "C:\\Users\\yurim\\source\\repos\\UserApplication\\UserApplicationAPI\\UserAplication\\UserApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yurim\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\yurim\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
